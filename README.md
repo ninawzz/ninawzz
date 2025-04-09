@@ -1,42 +1,51 @@
-<h1 align="center">Olá! Eu sou a Nina Rosas 👩‍💻</h1>
+# 👩‍💻 Nina Coutinho Rosas Troccoli
 
-<p align="center">
-  🎓 Estudante de Ciência da Computação • 💻 Apaixonada por tecnologia • 🚀 Em busca de uma oportunidade como Jovem Aprendiz ou Estagiária em Back-End
-</p>
+### Estudante de Ciências da Computação | Foco em Desenvolvimento Back-End
 
 ---
 
-### 💡 Sobre mim
+## ✨ Sobre Mim
 
-- 💻 Gosto de desenvolver e entender como sistemas funcionam por trás das telas  
-- 📘 Tenho conhecimento intermediário em **Python**
-- 🧩 Estudando **JavaScript**, **HTML** e lógica de programação
-- 🎯 Focada em aprender mais sobre **desenvolvimento back-end**
-- 📍 João Pessoa - PB
+Olá! Sou a Nina, estudante de Ciências da Computação e apaixonada por tecnologia. Tenho uma base sólida em lógica de programação, o que me permite resolver desafios com raciocínio claro e estruturado.  
+Meu foco é o desenvolvimento back-end, especialmente com **Python**, e estou sempre em busca de evoluir por meio de projetos práticos, estudos e participação em eventos de tecnologia.
 
----
-
-### 🚀 Tecnologias que estou aprendendo
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+Atualmente, estou desenvolvendo um sistema de gestão de estoque como projeto acadêmico em grupo, utilizando **programação procedural** com **interface gráfica em Tkinter**.
 
 ---
 
-### 📌 Projetos em destaque
+## 🧠 Tecnologias & Habilidades
 
-- 🎮 **Jogo de 21 (Blackjack)** — Em desenvolvimento com Python  
-- 📦 **Sistema de Gestão de Estoque** — Feito com interface em Tkinter  
-- 📚 **Desafios e exercícios** de cursos da DIO e Alura
-
----
-
-### 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+- Python (intermediário)  
+- HTML  
+- JavaScript (básico)  
+- VS Code  
+- Lógica de programação  
+- Git/GitHub (básico)  
+- Linux (conceitos iniciais)
 
 ---
 
-✨ Obrigada por visitar meu perfil!  
+## 📁 Projetos em Andamento
+
+- Sistema de Gestão de Estoque (Faculdade)  
+- Jogo de 21 (Blackjack) com interface gráfica em Tkinter  
+
+*(Em breve no GitHub!)*
+
+---
+
+## 📚 Certificados Recentes
+
+- Python Developer – SUZANO/DIO *(em andamento)*  
+- Linux para Iniciantes – SANTANDER/DIO *(em andamento)*  
+- Python: crie sua primeira aplicação – Alura  
+- Lógica de Programação em JavaScript – Alura  
+- Vários cursos práticos de Python (manipulação de strings, listas, tuplas, estruturas, etc.) – DIO
+
+---
+
+## 📬 Contato
+
+📧 E-mail: nina.troccoli@live.com  
+📍 João Pessoa – PB  
+📱 WhatsApp: (83) 98190-9044
