@@ -9,8 +9,6 @@
 Olá! Sou a Nina, estudante de Ciências da Computação e apaixonada por tecnologia. Tenho uma base sólida em lógica de programação, o que me permite resolver desafios com raciocínio claro e estruturado.  
 Meu foco é o desenvolvimento back-end, especialmente com **Python**, e estou sempre em busca de evoluir por meio de projetos práticos, estudos e participação em eventos de tecnologia.
 
-Atualmente, estou desenvolvendo um sistema de gestão de estoque como projeto acadêmico em grupo, utilizando **programação procedural** com **interface gráfica em Tkinter**.
-
 ---
 
 ## 🧠 Tecnologias & Habilidades
