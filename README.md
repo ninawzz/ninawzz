@@ -46,4 +46,3 @@ Meu foco é o desenvolvimento back-end, especialmente com **Python**, e estou se
 
 📧 E-mail: nina.troccoli@live.com  
 📍 João Pessoa – PB  
-📱 WhatsApp: (83) 98190-9044
